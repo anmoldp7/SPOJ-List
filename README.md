@@ -1,2 +1,2 @@
 # SPOJ-List
-Solution to some problems I solved on SPOJ.
+Some solutions to SPOJ problems.
